@@ -1,7 +1,7 @@
 https://github.com/efunneko/jquery.createHtml - jQuery version
 Element.js
 =======
-##Plain Javascript framework for creating DOM elements.
+##Plain Javascript library for creating DOM elements.
 ###Features:
 * Balance between readability and amount of code
 * Object-oriented style &hearts;
